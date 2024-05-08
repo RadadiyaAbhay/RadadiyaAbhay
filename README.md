@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [radadiyaabhay.web.app](radadiyaabhay.web.app)
 
-- 📝 I regularly write articles on [newstrends.web.app](newstrends.web.app)
+- 📝 I regularly write articles on [newstrends.web.app](https://newstrends.web.app/)
 
 - 💬 Ask me about **React , Next.js , node**
 
