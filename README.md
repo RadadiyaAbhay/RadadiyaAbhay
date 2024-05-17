@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Restaurant Management**
 
-- 👨‍💻 All of my projects are available at [radadiyaabhay.web.app](radadiyaabhay.web.app)
+- 👨‍💻 All of my projects are available at [radadiyaabhay.web.app](https://github.com/RadadiyaAbhay)
 
 - 📝 I regularly write articles on [newstrends.web.app](https://newstrends.web.app/)
 
