@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-- 🔭 I’m currently working on **Blog Project**
+- 🔭 I’m currently working on **AI Project**
 
-- 🌱 I’m currently learning **Node , Full stack Development**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 👯 I’m looking to collaborate on **Restaurant Management**
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [newstrends.web.app](https://newstrends.web.app/)
 
-- 💬 Ask me about **React , Next.js , node**
+- 💬 Ask me about **React , Next.js , Node**
 
 - 📫 How to reach me **abhayradadiyaa@gmail.com**
 
